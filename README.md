@@ -45,7 +45,7 @@
 ### **Data Preprocessing and Exploration:** 
 - Setting up datetime variables and breaking them down into new columns (day, week, month, etc.), creating new columns (regions, days of the week), checking for missing values and outliers and exploring categorical and numerical data (mean, std, min, max, quantiles, etc.).
 
-## **Exploratory Data Analysis** 
+## **Main Insights** 
 - Answering business questions about customer behavior, regional variations, pricing, freight variations, and customer satisfaction using **Pyplot**. Some examples are:
 
 #### Analyzing Categories of Products
